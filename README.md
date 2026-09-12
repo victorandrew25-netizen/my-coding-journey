@@ -41,6 +41,15 @@ I'm going to document my progress regularly, including:
 * How I solve those problems
 * Projects I build
 
+## What I practiced
+
+I practiced using `console.log()` to display information about myself:
+
+```javascript
+console.log("My name is Andrew.");
+console.log("I am learning JavaScript.");
+console.log("My goal is to become a developer.");
+
 ## 🚀 My Goal
 
 Learn consistently, build things, make mistakes, fix them, and keep improving.
